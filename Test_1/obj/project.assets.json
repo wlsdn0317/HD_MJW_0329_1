@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HelloDaejeon\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\HelloDaejeon\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\HelloDaejeon\\Test_1\\Test_1.csproj",
+      "projectName": "Test_1",
+      "projectPath": "C:\\HelloDaejeon\\Test_1\\Test_1.csproj",
       "packagesPath": "C:\\Users\\MIN\\.nuget\\packages\\",
-      "outputPath": "C:\\HelloDaejeon\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\HelloDaejeon\\Test_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
