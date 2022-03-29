@@ -1,0 +1,13 @@
+C:\HelloDaejeon\Test_5\bin\Debug\netcoreapp3.1\Test_5.exe
+C:\HelloDaejeon\Test_5\bin\Debug\netcoreapp3.1\Test_5.deps.json
+C:\HelloDaejeon\Test_5\bin\Debug\netcoreapp3.1\Test_5.runtimeconfig.json
+C:\HelloDaejeon\Test_5\bin\Debug\netcoreapp3.1\Test_5.runtimeconfig.dev.json
+C:\HelloDaejeon\Test_5\bin\Debug\netcoreapp3.1\Test_5.dll
+C:\HelloDaejeon\Test_5\bin\Debug\netcoreapp3.1\Test_5.pdb
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.csproj.AssemblyReference.cache
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.AssemblyInfoInputs.cache
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.AssemblyInfo.cs
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.csproj.CoreCompileInputs.cache
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.dll
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.pdb
+C:\HelloDaejeon\Test_5\obj\Debug\netcoreapp3.1\Test_5.genruntimeconfig.cache
